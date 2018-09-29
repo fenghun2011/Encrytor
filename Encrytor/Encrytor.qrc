@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Encrytor">
+        <file>Resources/icon.ico</file>
+        <file>Resources/about.ico</file>
+        <file>Resources/closeico.ico</file>
+        <file>Resources/dnteyt.ico</file>
+        <file>Resources/entryt.ico</file>
+        <file>Resources/help.ico</file>
+        <file>Resources/open.ico</file>
+        <file>Resources/changelog.ico</file>
+        <file>Resources/KeilGenericKeygen-EDGE.mp3</file>
+    </qresource>
+</RCC>
